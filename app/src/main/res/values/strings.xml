@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KehermaanRnDProject</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="username">User ID</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+</resources>
